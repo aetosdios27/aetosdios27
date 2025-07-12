@@ -1,4 +1,5 @@
-- I'm aetos, checkout pinned repos for work.
+- I'm aetos.
+- Checkout pinned repos for work.
 
 
 <!---
