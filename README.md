@@ -7,5 +7,3 @@ langs           rust / go / typescript
 focus           distributed systems / storage / protocols
 building        styx / konto / webnotes
 ```
-
-[website](https://aetosdios.xyz)
