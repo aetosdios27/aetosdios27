@@ -1,5 +1,5 @@
 ```text
-on main via gh
+on my-profile via gh
 > hi, i am aetos
 
 stage           21 / cs undergrad
