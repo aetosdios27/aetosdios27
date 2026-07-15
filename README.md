@@ -1,6 +1,7 @@
 ```text
-                   aetos@github
-                   ------------
+on main via gh
+> hi, i am aetos
+
 stage           21 / cs undergrad
 role            systems engineer
 langs           rust / go / typescript
