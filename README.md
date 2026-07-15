@@ -1,8 +1,11 @@
-- I'm aetos.
-- Checkout pinned repos for work.
+```text
+                   aetos@github
+                   ------------
+stage           21 / cs undergrad
+role            systems engineer
+langs           rust / go / typescript
+focus           distributed systems / storage / protocols
+building        styx / konto / webnotes
+```
 
-
-<!---
-aetosdios27/aetosdios27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[website](https://aetosdios.xyz)
